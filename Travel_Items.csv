@@ -1,21 +1,61 @@
-﻿ITEMS,PROFITS,WEIGHTS (G)
-4 Tops,19,552
-3 Bottoms,20,750
-Semi Formal Outfit,3,1500
-7 Undergarments,18,525
-7 Socks,17,126
-2 Sets of Pyjamas,7,600
-Foldable Jacket,8,1100
-3 Pair of Shoes,16,2250
-2 Bagpack,6,1600
-Sunglasses,5,50
-Jewelry,4,50
-Voltage Adapter,15,75
-Dental Supplies,13,200
-Shower Supplies,14,500
-Deodorant,12,75
-Haircomb,9,75
-Skincare Supplies,10,500
-Shaving Supllies,11,500
-Travel-sized Laundry Detergents,1,40
-Travel-friendly Food,2,300
+ITEMS,PROFITS,WEIGHTS (G)
+Passport or ID,1,100
+Laptop,4,1500
+Camera,5,600
+Cell phone,3,300
+Portable charger,6,200
+Travel adapter,7,100
+Water bottle,8,500
+Travel-sized toiletries,9,150
+Cash and credit cards,2,50
+Travel pillow,60,200
+Shampoo,10,200
+Soap,11,100
+Toothpaste,12,50
+Toothbrush,13,20
+Shaving cream,14,50
+Deodorant,15,100
+Makeup,16,150
+Hairbrush,17,50
+Sunglasses,18,20
+Earplugs,19,5
+Book,20,500
+Clothes,21,1200
+Shoes,22,800
+Sneakers,23,600
+Hat,24,100
+Socks,25,200
+Umbrella,26,600
+Sleeping bag,46,1500
+Tent,47,3000
+Backpack,48,800
+Snorkeling gear,49,2000
+Beach towel,50,800
+Swimwear,51,200
+Flip-flops,52,300
+Sunscreen,53,250
+Inflatable raft,54,1200
+Beach ball,55,150
+Sand toys,56,500
+Portable beach chairs,57,2000
+Beach umbrella,58,1000
+Sleeping mask,28,20
+Earplugs,59,5
+Noise cancelling headphones,29,250
+Travel blanket,30,500
+Travel pillow,27,200
+Eyemask,31,50
+Neck pillow,32,100
+Compression socks,33,150
+Headphones,34,150
+Slippers,35,150
+Travel guidebook,36,500
+Journal,37,150
+Pen,38,20
+Wallet,39,150
+Keychain,40,50
+Watch,41,150
+GPS device,42,250
+Portable battery,43,200
+Headlamp,44,100
+Multi-tool,45,200
